@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop\\Oshop.Api.csproj": {}
+    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop\\Oshop.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj": {
+    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
         "projectName": "Oshop.Data",
-        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
+        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
         "packagesPath": "C:\\Users\\m.mozafari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Data\\obj\\",
+        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m.mozafari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
-                "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj"
+              "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
+                "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj": {
+    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
+        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
         "projectName": "Oshop.Dtos",
-        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
+        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
         "packagesPath": "C:\\Users\\m.mozafari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\obj\\",
+        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m.mozafari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -146,14 +146,14 @@
         }
       }
     },
-    "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
+    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
         "projectName": "Oshop.Entities",
-        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
+        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
         "packagesPath": "C:\\Users\\m.mozafari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\obj\\",
+        "outputPath": "C:\\Users\\m.mozafari\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m.mozafari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -202,14 +202,14 @@
         }
       }
     },
-    "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop\\Oshop.Api.csproj": {
+    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop\\Oshop.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop\\Oshop.Api.csproj",
+        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop\\Oshop.Api.csproj",
         "projectName": "Oshop.Api",
-        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop\\Oshop.Api.csproj",
+        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop\\Oshop.Api.csproj",
         "packagesPath": "C:\\Users\\m.mozafari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop\\obj\\",
+        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m.mozafari\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -227,11 +227,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj": {
-                "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj"
+              "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj": {
+                "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj"
               },
-              "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj": {
-                "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj"
+              "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj": {
+                "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj"
               }
             }
           }

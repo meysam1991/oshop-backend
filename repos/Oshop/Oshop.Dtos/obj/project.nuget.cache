@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CfegNG8d76d85qxhyuTJLITE5gba9BlrCwmHbNjsaQfIBiQfEuLCq5zrnoMLWWk95gqNzvCK0Iiy9/g6wHrKyA==",
+  "dgSpecHash": "beKGysLujAsjQNjdLELe5YyKyHGq16NQtmv9g+iS14tRcJcJmyn8Ls2TZh3KPZlVeU4ZmXugV9Vti/82mmqvmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
+  "projectFilePath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

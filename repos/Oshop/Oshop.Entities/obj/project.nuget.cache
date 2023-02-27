@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q6eZh2/fbhSy42Oz+5ibQl1pjmhpyjEJs411CfeynmSIFZD2wGeyNJcjtlo9ioF4jJ4hi7ygZc2WOtdb4YZ5cg==",
+  "dgSpecHash": "1zo5IbSXBwUhrqEdQ8sNtdTxC84SobSj7c3oIQvj4T53+gbUIUrfdZdv6R8TznZ+B3P/gVZ3mgElbBhzr9NvzA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
+  "projectFilePath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

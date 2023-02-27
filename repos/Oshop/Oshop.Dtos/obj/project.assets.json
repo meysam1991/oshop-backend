@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
+      "projectUniqueName": "C:\\Users\\m.mozafari\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
       "projectName": "Oshop.Dtos",
-      "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
+      "projectPath": "C:\\Users\\m.mozafari\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
       "packagesPath": "C:\\Users\\m.mozafari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Dtos\\obj\\",
+      "outputPath": "C:\\Users\\m.mozafari\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\m.mozafari\\AppData\\Roaming\\NuGet\\NuGet.Config",

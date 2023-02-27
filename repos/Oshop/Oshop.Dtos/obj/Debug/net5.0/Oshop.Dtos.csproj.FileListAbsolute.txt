@@ -10,3 +10,15 @@ C:\Users\m.mozafari\source\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\Oshop.Dtos.dl
 C:\Users\m.mozafari\source\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\refint\Oshop.Dtos.dll
 C:\Users\m.mozafari\source\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\Oshop.Dtos.pdb
 C:\Users\m.mozafari\source\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\ref\Oshop.Dtos.dll
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\bin\Debug\net5.0\Oshop.Dtos.deps.json
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\bin\Debug\net5.0\Oshop.Dtos.dll
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\bin\Debug\net5.0\Oshop.Dtos.pdb
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\Oshop.Dtos.csproj.AssemblyReference.cache
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\Oshop.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\Oshop.Dtos.AssemblyInfoInputs.cache
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\Oshop.Dtos.AssemblyInfo.cs
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\Oshop.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\Oshop.Dtos.dll
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\refint\Oshop.Dtos.dll
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\Oshop.Dtos.pdb
+C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Dtos\obj\Debug\net5.0\ref\Oshop.Dtos.dll

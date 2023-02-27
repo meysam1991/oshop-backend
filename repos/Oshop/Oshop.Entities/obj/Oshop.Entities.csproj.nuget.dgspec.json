@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {}
+    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
+    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
         "projectName": "Oshop.Entities",
-        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
+        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
         "packagesPath": "C:\\Users\\m.mozafari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Entities\\obj\\",
+        "outputPath": "C:\\Users\\m.mozafari\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\m.mozafari\\AppData\\Roaming\\NuGet\\NuGet.Config",

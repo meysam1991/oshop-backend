@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eptn9j5HjwEuD2iflevE2SO7Z7firulYhl1p3kBE1+wiaiJnl2CxFn8DH3ciMtfjvDfHIHWVKU3I0wUmJUnNDQ==",
+  "dgSpecHash": "QvmxL8fiybhFCtA7B3dHDkxcengXJWIBUFA37aYyg0XugYPRc9wor4yU4k63t4C6XFzIeDtYoSlXrE5Qk2oDKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\m.mozafari\\source\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
+  "projectFilePath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\m.mozafari\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\m.mozafari\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
