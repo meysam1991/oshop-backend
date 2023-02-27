@@ -1,0 +1,12 @@
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\bin\Debug\net5.0\Oshop.Entities.deps.json
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\bin\Debug\net5.0\Oshop.Entities.dll
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\bin\Debug\net5.0\Oshop.Entities.pdb
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.csproj.AssemblyReference.cache
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.AssemblyInfoInputs.cache
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.AssemblyInfo.cs
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.dll
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\refint\Oshop.Entities.dll
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.pdb
+C:\Users\m.mozafari\source\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\ref\Oshop.Entities.dll
