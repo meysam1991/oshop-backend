@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Oshop.Data;
+using Oshop.Dtos;
 using Oshop.Entities;
 using System.Linq;
 using System.Threading.Tasks;
@@ -23,10 +25,16 @@ namespace Oshop.Api.Controllers
             return  Ok();
         }
 
-        [HttpGet]
+        [HttpGet("GetAll")]
         public async Task<ActionResult> GetAll()
         {
-            return Ok(_db.Categories.ToList());
+            var items=await _db.Categories.Select(c=> new CategoryResultDto
+            {CategoryId=c.Id,
+            Name=c.Name,
+            
+
+            }).ToListAsync();
+            return Ok(items);
         }
     }
 }
