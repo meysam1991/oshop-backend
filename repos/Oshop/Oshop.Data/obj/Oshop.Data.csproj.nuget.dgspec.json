@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj": {}
+    "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj": {
+    "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
+        "projectUniqueName": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
         "projectName": "Oshop.Data",
-        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
-        "packagesPath": "C:\\Users\\m.mozafari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\obj\\",
+        "projectPath": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\Oshop.Data.csproj",
+        "packagesPath": "C:\\Users\\Meysam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\m.mozafari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Meysam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,15 +22,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\m.mozafari\\source\\repos\\rabbitmq\\localsystermnuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
-                "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj"
+              "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
+                "projectPath": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj"
               }
             }
           }
@@ -98,21 +97,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
+    "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
         "projectName": "Oshop.Entities",
-        "projectPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
-        "packagesPath": "C:\\Users\\m.mozafari\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\m.mozafari\\source\\repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\obj\\",
+        "projectPath": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\Oshop.Entities.csproj",
+        "packagesPath": "C:\\Users\\Meysam\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\m.mozafari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Meysam\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -120,7 +119,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Users\\m.mozafari\\source\\repos\\rabbitmq\\localsystermnuget": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -164,7 +162,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

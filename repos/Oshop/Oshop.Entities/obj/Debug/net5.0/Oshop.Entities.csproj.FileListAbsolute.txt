@@ -22,3 +22,15 @@ C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\De
 C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\refint\Oshop.Entities.dll
 C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.pdb
 C:\Users\m.mozafari\source\repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\ref\Oshop.Entities.dll
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\bin\Debug\net5.0\Oshop.Entities.deps.json
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\bin\Debug\net5.0\Oshop.Entities.dll
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\bin\Debug\net5.0\Oshop.Entities.pdb
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.csproj.AssemblyReference.cache
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.AssemblyInfoInputs.cache
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.AssemblyInfo.cs
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.dll
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\refint\Oshop.Entities.dll
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\Oshop.Entities.pdb
+C:\Users\Meysam\Source\Repos\oshop-backend\repos\Oshop\Oshop.Entities\obj\Debug\net5.0\ref\Oshop.Entities.dll

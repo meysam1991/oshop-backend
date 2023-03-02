@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\m.mozafari\\.nuget\\packages\\": {}
+    "C:\\Users\\Meysam\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\m.mozafari\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
+      "projectUniqueName": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
       "projectName": "Oshop.Dtos",
-      "projectPath": "C:\\Users\\m.mozafari\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
-      "packagesPath": "C:\\Users\\m.mozafari\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\m.mozafari\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\obj\\",
+      "projectPath": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\Oshop.Dtos.csproj",
+      "packagesPath": "C:\\Users\\Meysam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Meysam\\Source\\Repos\\oshop-backend\\repos\\Oshop\\Oshop.Dtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\m.mozafari\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Meysam\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -28,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Users\\m.mozafari\\source\\repos\\rabbitmq\\localsystermnuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -62,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
